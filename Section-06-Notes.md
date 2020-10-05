@@ -1,0 +1,3 @@
+ - [ ] Section 06: Functional Concepts 0/2 | 12min
+	 - [ ] 26. Declarative Programming | 9min
+	 - [ ] 27. What Is Functional Programming? | 3min
